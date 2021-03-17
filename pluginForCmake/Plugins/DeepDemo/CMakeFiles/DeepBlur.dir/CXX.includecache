@@ -1,0 +1,880 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/Nuke12.2v5/include/Build/Compiler/fnClang.h
+float.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/Compiler/fnGPlusPlus.h
+float.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/Compiler/fnVC.h
+FLOAT.H
+-
+windows.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/Compiler/fnVC8.h
+fnVC.h
+C:/Program Files/Nuke12.2v5/include/Build/Compiler/fnVC.h
+
+C:/Program Files/Nuke12.2v5/include/Build/OS/fnIRIX.h
+values.h
+-
+bstring.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/bstring.h
+
+C:/Program Files/Nuke12.2v5/include/Build/OS/fnLinux.h
+Build/Compiler/fnGPlusPlus.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnGPlusPlus.h
+Build/Compiler/fnGPlusPlus.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnGPlusPlus.h
+float.h
+-
+values.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/OS/fnMac.h
+Build/Compiler/fnClang.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnClang.h
+Build/Compiler/fnGPlusPlus.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnGPlusPlus.h
+Build/Compiler/fnGPlusPlus.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnGPlusPlus.h
+
+C:/Program Files/Nuke12.2v5/include/Build/OS/fnWindows.h
+windows.h
+-
+Compiler/fnVC7.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Compiler/fnVC7.h
+Build/Compiler/fnVC8.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnVC8.h
+Build/Compiler/fnGPlusPlus.h
+C:/Program Files/Nuke12.2v5/include/Build/OS/Build/Compiler/fnGPlusPlus.h
+regstr.h
+-
+string
+-
+shlobj.h
+-
+VersionHelpers.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/fnAssert.h
+intrin.h
+-
+signal.h
+-
+
+C:/Program Files/Nuke12.2v5/include/Build/fnBuild.h
+Build/OS/fnMac.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/OS/fnMac.h
+Build/OS/fnLinux.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/OS/fnLinux.h
+Build/OS/fnIRIX.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/OS/fnIRIX.h
+Build/OS/fnWindows.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/OS/fnWindows.h
+Build/fnMacros.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/fnMacros.h
+
+C:/Program Files/Nuke12.2v5/include/Build/fnMacros.h
+Build/fnAssert.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/fnAssert.h
+Build/fnStaticAssert.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/fnStaticAssert.h
+
+C:/Program Files/Nuke12.2v5/include/Build/fnStaticAssert.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/Build/Build/fnBuild.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Allocators.h
+DDImage/BlockAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/BlockAllocator.h
+DDImage/HeapAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/HeapAllocator.h
+DDImage/STLAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/STLAllocator.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Attribute.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel.h
+Vector2.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector2.h
+Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector3.h
+Vector4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector4.h
+Matrix3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Matrix3.h
+Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Matrix4.h
+Allocators.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Allocators.h
+RefCountedObject.h
+C:/Program Files/Nuke12.2v5/include/DDImage/RefCountedObject.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Axis_KnobI.h
+DDImage/Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector3.h
+DDImage/Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix4.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/BlockAllocator.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+IAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/IAllocator.h
+DDImage/SmallBlockDefinition.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/SmallBlockDefinition.h
+DDImage/STLAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/STLAllocator.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Box.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Box3.h
+Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box.h
+Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector3.h
+DDImage/DDMath.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDMath.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+iostream
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel3D.h
+DDImage/Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Channel.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelMap.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel.h
+Hash.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Hash.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ConvertibleToIop.h
+DDImage/Op.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Op.h
+DDImage/Iop.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Iop.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnBuild.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DDMath.h
+math.h
+-
+float.h
+-
+stdlib.h
+-
+Build/fnMacros.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnMacros.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DDWindows.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnBuild.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepFilterOp.h
+DDImage/DeepOp.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DeepOp.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepInfo.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+DDImage/Format.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Format.h
+DDImage/GeneralInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/GeneralInfo.h
+DDImage/Info2D.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Info2D.h
+DDImage/IopInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/IopInfo.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepOp.h
+DDImage/Op.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Op.h
+DDImage/Iop.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Iop.h
+DDImage/DeepPlane.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DeepPlane.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/DeepInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DeepInfo.h
+DDImage/RequestData.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/RequestData.h
+DDImage/ConvertibleToIop.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ConvertibleToIop.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepPixel.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+DDImage/ChannelMap.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelMap.h
+Build/fnMacros.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnMacros.h
+assert.h
+-
+stdlib.h
+-
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepPixelOp.h
+DDImage/DeepFilterOp.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DeepFilterOp.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DeepPlane.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+DDImage/DeepPixel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DeepPixel.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Deprecation.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnBuild.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Description.h
+vector
+-
+ddImageVersion.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ddImageVersion.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/DopeItemFlags.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/FloatFunctions.h
+stdint.h
+-
+float.h
+-
+math.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Format.h
+Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box.h
+DDMath.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDMath.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/GPUContext.h
+string
+-
+vector
+-
+GL/glew.h
+-
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/GeneralInfo.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/GeoInfo.h
+Box3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box3.h
+Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel.h
+Channel3D.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel3D.h
+DDImage/Matrix3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix3.h
+DDImage/Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix4.h
+DDImage/GeoSelection.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/GeoSelection.h
+Hash.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Hash.h
+Primitive.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Primitive.h
+DDImage/RefCountedObject.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/RefCountedObject.h
+DDImage/Allocators.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Allocators.h
+DDImage/VertexContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/VertexContext.h
+DDImage/OutputContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/OutputContext.h
+DDImage/SubdivisionContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/SubdivisionContext.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/GeoSelection.h
+DDImage/Hash.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Hash.h
+DDImage/OrderedMap.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/OrderedMap.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Geo_KnobI.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+DDImage/Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix4.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/GlCacheApi.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+DDImage/Vector2.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector2.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnBuild.h
+DDImage/Deprecation.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Deprecation.h
+memory
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Hash.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+iostream
+-
+string
+-
+set
+-
+map
+-
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/HeapAllocator.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+IAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/IAllocator.h
+DDImage/STLAllocator.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/STLAllocator.h
+map
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/IAllocator.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+Build/fnAssert.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnAssert.h
+assert.h
+-
+stddef.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Info2D.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+DDImage/GeneralInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/GeneralInfo.h
+DDImage/Format.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Format.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Iop.h
+assert.h
+-
+Op.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Op.h
+Format.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Format.h
+ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+GPUContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/GPUContext.h
+IopInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/IopInfo.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/IopInfo.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+DDImage/Format.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Format.h
+DDImage/Info2D.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Info2D.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Knob.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+DDImage/OpMessage.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/OpMessage.h
+DDImage/Store.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Store.h
+DDImage/ViewSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ViewSet.h
+DDImage/ViewerContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ViewerContext.h
+DDImage/Geo_KnobI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Geo_KnobI.h
+DDImage/Axis_KnobI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Axis_KnobI.h
+DDImage/PositionVector_KnobI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/PositionVector_KnobI.h
+DDImage/ValueStuffI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ValueStuffI.h
+DDImage/Memory.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Memory.h
+DDImage/Deprecation.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Deprecation.h
+iostream
+-
+vector
+-
+cstdarg
+-
+set
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Knobs.h
+set
+-
+map
+-
+Op.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Op.h
+ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+LookupCurves.h
+C:/Program Files/Nuke12.2v5/include/DDImage/LookupCurves.h
+GeneralInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/GeneralInfo.h
+DDImage/MetaKeyFrameKnobI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/MetaKeyFrameKnobI.h
+SceneView_KnobI.h
+C:/Program Files/Nuke12.2v5/include/DDImage/SceneView_KnobI.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/LookupCurves.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+vector
+-
+string
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Matrix3.h
+DDImage/Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector3.h
+string.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Matrix4.h
+DDImage/Vector4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector4.h
+DDImage/Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector3.h
+DDImage/Vector2.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector2.h
+string.h
+-
+assert.h
+-
+vector
+-
+cmath
+-
+limits
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/MatrixArray.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Matrix4.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Memory.h
+DDImage/DDImage_API.h
+-
+DDImage/Thread.h
+-
+DDImage/IAllocator.h
+-
+iostream
+-
+assert.h
+-
+string
+-
+sstream
+-
+vector
+-
+map
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Menu.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+DDImage/MenuItemData.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/MenuItemData.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/MenuItemData.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/MetaKeyFrameKnobI.h
+set
+-
+DDImage/Knob.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Knob.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Op.h
+vector
+-
+cstdarg
+-
+memory
+-
+DDImage/Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Channel.h
+DDImage/ddImageVersion.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ddImageVersion.h
+DDImage/Description.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Description.h
+DDImage/Hash.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Hash.h
+DDImage/OutputContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/OutputContext.h
+DDImage/Store.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Store.h
+DDImage/Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector3.h
+DDImage/Vector2.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector2.h
+DDImage/ViewerContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ViewerContext.h
+DDImage/ViewSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ViewSet.h
+DDImage/DopeItemFlags.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DopeItemFlags.h
+DDImage/OpTimer.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/OpTimer.h
+DDImage/Deprecation.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Deprecation.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/OpMessage.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+Build/fnBuild.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnBuild.h
+string
+-
+vector
+-
+utility
+-
+ctime
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/OpTimer.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/OrderedMap.h
+algorithm
+-
+cassert
+-
+map
+-
+vector
+-
+Build/fnMacros.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnMacros.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/OutputContext.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+DDImage/ProxyContext.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ProxyContext.h
+math.h
+C:/Program Files/Nuke12.2v5/include/DDImage/math.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/Deprecation.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Deprecation.h
+Build/fnBuild.h
+-
+string
+-
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Pixel.h
+ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+string.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/PositionVector_KnobI.h
+DDImage/Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Vector3.h
+DDImage/Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix4.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Primitive.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+DDImage/Allocators.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Allocators.h
+Attribute.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Attribute.h
+Box3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box3.h
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ProxyContext.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+Vector2.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector2.h
+math.h
+C:/Program Files/Nuke12.2v5/include/DDImage/math.h
+string
+-
+Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/RGB.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/RefCountedObject.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/RequestData.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Row.h
+DDImage/ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/ChannelSet.h
+DDImage/RowCheckMacros.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/RowCheckMacros.h
+cassert
+-
+memory
+-
+array
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/RowCheckMacros.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/STLAllocator.h
+vector
+-
+deque
+-
+assert.h
+-
+stddef.h
+-
+Build/fnAssert.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Build/fnAssert.h
+DDImage/Memory.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Memory.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/SceneView_KnobI.h
+vector
+-
+string
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/SmallBlockDefinition.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+stdint.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Store.h
+set
+-
+map
+-
+string
+-
+Channel.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/SubdivisionContext.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+MatrixArray.h
+C:/Program Files/Nuke12.2v5/include/DDImage/MatrixArray.h
+ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+Channel3D.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel3D.h
+Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box.h
+Box3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box3.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Thread.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+pthread.h
+-
+stdexcept
+-
+string
+-
+DDWindows.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDWindows.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ValueStuffI.h
+string
+-
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector2.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+math.h
+C:/Program Files/Nuke12.2v5/include/DDImage/math.h
+iostream
+-
+DDImage/FloatFunctions.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/FloatFunctions.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector3.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+DDImage/DDMath.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDMath.h
+DDImage/FloatFunctions.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/FloatFunctions.h
+iostream
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector4.h
+Vector3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Vector3.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/VertexContext.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+MatrixArray.h
+C:/Program Files/Nuke12.2v5/include/DDImage/MatrixArray.h
+ChannelSet.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ChannelSet.h
+Channel3D.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Channel3D.h
+Box3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/Box3.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ViewSet.h
+DDImage/DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/DDImage_API.h
+set
+-
+stddef.h
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ViewerContext.h
+DDImage/Box.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box.h
+DDImage/Box3.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Box3.h
+DDImage/Matrix4.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Matrix4.h
+DDImage/GeoInfo.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/GeoInfo.h
+DDImage/Hash.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Hash.h
+DDImage/Format.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Format.h
+DDImage/Menu.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/Menu.h
+DDImage/GlCacheApi.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage/GlCacheApi.h
+memory
+-
+vector
+-
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ddImageVersion.h
+ddImageVersionNumbers.h
+C:/Program Files/Nuke12.2v5/include/DDImage/ddImageVersionNumbers.h
+DDImage_API.h
+C:/Program Files/Nuke12.2v5/include/DDImage/DDImage_API.h
+
+C:/Program Files/Nuke12.2v5/include/DDImage/ddImageVersionNumbers.h
+
+C:/Program Files/Nuke12.2v5/include/GL/glew.h
+stddef.h
+-
+inttypes.h
+-
+stdint.h
+-
+inttypes.h
+-
+Availability.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DeepBlur.cpp
+DDImage/Row.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/Row.h
+DDImage/Knobs.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/Knobs.h
+DDImage/DDMath.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/DDMath.h
+DDImage/LookupCurves.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/LookupCurves.h
+DDImage/DeepFilterOp.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/DeepFilterOp.h
+DDImage/DeepPixelOp.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/DeepPixelOp.h
+DDImage/Pixel.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/Pixel.h
+DDImage/RGB.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/DDImage/RGB.h
+stdio.h
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/stdio.h
+iostream
+-
+

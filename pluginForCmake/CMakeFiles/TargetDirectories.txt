@@ -1,0 +1,5 @@
+C:/Users/FiercePC/Documents/pluginForCmake/CMakeFiles/edit_cache.dir
+C:/Users/FiercePC/Documents/pluginForCmake/CMakeFiles/rebuild_cache.dir
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/CMakeFiles/DeepBlur.dir
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/CMakeFiles/edit_cache.dir
+C:/Users/FiercePC/Documents/pluginForCmake/Plugins/DeepDemo/CMakeFiles/rebuild_cache.dir
